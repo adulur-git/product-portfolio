@@ -71,15 +71,3 @@ metric with no matching kill threshold is not a hypothesis, it is a press releas
 
 **I read the PRs on my product.** Not to approve them — to know what actually shipped versus what
 the ticket said.
-
----
-
-## What I am working on
-
-**I default to shipping over stopping.** When a feature is not working, my instinct is to iterate
-rather than to consider that the premise was wrong. I am trying to make "kill it" a real option I
-raise myself rather than one a stakeholder has to force.
-
-**I under-communicate upward when things are going well.** Executives who only hear from me when
-there is a problem have no model of the team's progress, which makes the eventual problem land
-harder than it should.
