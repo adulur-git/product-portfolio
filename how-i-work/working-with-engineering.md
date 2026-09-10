@@ -58,8 +58,7 @@ circumstances change.
 
 **Decompose without losing scope.** Fewer tickets is not less work. When I break something down,
 every acceptance criterion in the original has a named home in a child, or it was deliberately cut
-and recorded as cut. Silent scope loss during decomposition is the failure I watch for hardest in
-myself and in the PMs I lead.
+and recorded as cut. Silent scope loss during decomposition is the failure I watch for hardest.
 
 **Infrastructure and schema work sequences first.** Data model and infrastructure changes land ahead
 of the application code that depends on them, and shared-library changes land ahead of their
